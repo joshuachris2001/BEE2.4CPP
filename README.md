@@ -2,6 +2,10 @@
 BEEmod python to c++ translation (yes I am insane)
 so far I am in the early stages replaceing BEE mods python libary with c++ ones
 [no more pyinstall ✌ ] (╯°□°）╯︵ ┻━┻
+# I want Python! ＞︿＜
+if you are here by mistake the orgianal one is here, this is merly a crazy f0rk 🍴<br>
+https://github.com/BEEmod/BEE2.4<br>
+[I own nothing from this program this is only a translation]
 # GOAL
 this is to make a native BEE mod for linux and as native as I can get with out changing much
 # METHOD
