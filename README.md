@@ -1,5 +1,5 @@
 # BEE2.4CPP
-BEEmod python to c++ translation (yes I am insane)
+BEE2.4 mod for portal 🍴[https://github.com/BEEmod/BEE2.4] from python to c++ translation (yes I am insane)
 so far I am in the early stages replaceing BEE mods python libary with c++ ones
 [no more pyinstall ✌ ] (╯°□°）╯︵ ┻━┻
 # I want Python! ＞︿＜
