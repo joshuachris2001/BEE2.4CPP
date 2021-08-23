@@ -16,3 +16,7 @@ this is to make a native BEE mod for linux and as native as I can get with out c
 # POGRESS
 i'd say 0.01% [I only have two python libarys moved over but not tested]
 (and I am doing this in my free time)
+# COMPLANTS
+updates may be slow<br>
+if you are here to join this madness, welcome<br>
+if you are here to complain that this is futile: Y0U WiL1 be InGnOr∑d<br>
