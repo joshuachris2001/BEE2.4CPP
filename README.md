@@ -1,6 +1,6 @@
 # BEE2.4CPP
-BEE2.4 mod for portal 🍴[https://github.com/BEEmod/BEE2.4] from python to c++ translation (yes I am insane)
-so far I am in the early stages replaceing BEE mods python libary with c++ ones
+BEE2.4 mod for portal 🍴[https://github.com/BEEmod/BEE2.4] from python to C++ as a translation (yes I am insane)<br>
+so far I am in the early stages replaceing BEE2.4 mod's python libary with C++ ones
 [no more pyinstall ✌ ] (╯°□°）╯︵ ┻━┻
 # I want Python! ＞︿＜
 if you are here by mistake the orgianal one is here, this is merly a crazy f0rk 🍴<br>
